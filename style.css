@@ -1,0 +1,25 @@
+*{
+    margin: px;
+    padding: px;
+}
+header{
+    background-color: brown;
+    height: 60px;
+    background-position: center;
+    color: white;
+    font-size : 40px;
+	text-align : center;
+	font-weight : bold;
+	line-height : 60px;
+}
+body{
+    font-family: 'Times New Roman';
+    background: white(53,225,205);
+}
+li{
+    font-size: 20px;
+}
+h1{
+    font-size: 30px;
+
+}
